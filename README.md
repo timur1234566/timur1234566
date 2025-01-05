@@ -1,4 +1,4 @@
-<img src="https://github.com/timur1234566/timur1234566/blob/main/asset/gzm5f.gif" alt="The Unlimited" width="520"/>
+<img src="https://github.com/timur1234566/timur1234566/blob/main/gzm5f.gif" alt="The Unlimited" width="520"/>
 
 ## Hi я Тимур
 
